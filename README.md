@@ -1,13 +1,10 @@
 # OIBSIP-TASK-1
-<hr>
 <p>This repository contains my First project in Oasis Infobyte Internship program in domain Web Development and Designing.</p>
 <h1>TASK DETAILS</h1>
-<hr>
 <p><strong>Task - </strong>Landing Page</p>
 <p><strong>Technologies used - </strong>HTML, CSS</p>
 <p><strong>IDE - </strong>VS Code & CodeSandbox</p>
 <h1>EXPLAINATION:-</h1>
-<hr>
 <p>This projects contains 5 sections</p>
 <li>First section contains Navigation bar and Smartwatch image with its features and Rate box.</li>
 <li>Second section contains different products images in circle like Earbuds, Straps, Newly launched watch etc.</li>
