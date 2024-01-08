@@ -1,5 +1,5 @@
 # OIBSIP-TASK-1
-<p>This repository contains my First project in Oasis Infobyte Internship program in domain Web Development and Designing.</p>
+<p>This repository contains my First Project in Oasis Infobyte Internship program in domain Web Development and Designing.</p>
 <h1>TASK DETAILS</h1>
 <p><strong>Task - </strong>Landing Page</p>
 <p><strong>Technologies used - </strong>HTML, CSS</p>
